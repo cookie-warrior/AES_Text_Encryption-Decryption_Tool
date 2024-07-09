@@ -12,17 +12,14 @@ The AES Text Encryption Decryption Tool is a Python-based application for encryp
 - **Text Input and Output**: Accepts text input for encryption and decryption, providing clear feedback on the encrypted or decrypted output.
 
 ### Screenshots
-(https://github.com/cookie-warrior/AES_Text_Encryption-Decryption_Tool/assets/174499153/d2d4cf51-f461-461c-a83e-8d65c8fa4b5e)
+![Screenshot](https://github.com/cookie-warrior/AES_Text_Encryption-Decryption_Tool/assets/174499153/09645843-a35c-43f5-9c5a-a074ae040468)
 
 
 ### Getting Started
 
 To use the AES Text Encryption Decryption Tool, follow these steps:
 
-1. **Clone the repository**:
-![Screenshot](https://github.com/cookie-warrior/AES_Text_Encryption-Decryption_Tool/assets/174499153/09645843-a35c-43f5-9c5a-a074ae040468)
-
-
+1. **Clone the repository**: https://github.com/cookie-warrior/AES_Text_Encryption-Decryption_Tool.git
 
 2. **Install dependencies** (if any):
 
